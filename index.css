@@ -1,0 +1,32 @@
+#chartDiv {
+    height: 300px;
+    width: 700px;
+    position: relative;
+    align-content: center;
+    justify-content: center;
+    text-align: center;
+    left: 200px;
+    top: 100px;
+}
+
+#inputs {
+    text-align: center;
+    position: relative;
+    align-items: center;
+    justify-content: center;
+    top:10px;
+    font-size: 20px;
+    
+}
+
+#inputStock {
+    height: 30px;
+    width: 200px;
+    background-color: beige;
+    font-size: 20px;
+}
+header {
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 18px;
+}
